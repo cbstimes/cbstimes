@@ -6,7 +6,7 @@ categories: ['News','Gaming']
 excerpt_image: https://m.media-amazon.com/images/I/61wC-yZd4bS._AC_UF1000,1000_QL80_.jpg
 image: https://m.media-amazon.com/images/I/61wC-yZd4bS._AC_UF1000,1000_QL80_.jpg
 tags: ['Featured','Game Streaming']
----s
+---
 
 ## Remote Game Streaming Shows Promise
 Remote game streaming allows playing titles away from the home console using another device and my own experience testing this showed the PlayStation 5 could revolutionize the way we experience Star Wars games. **I tested remote play functionality by streaming games from my gaming laptop both over a wired and wireless connection.** The wired connection had barely noticeable input lag but there was a slight increase when using WiFi. **However, the delay was minimal even on wireless, demonstrating the strong potential for remote streaming on PS5.**
