@@ -5,8 +5,7 @@ date:   2023-12-24 20:15:50 +0000
 categories: ['News','Gaming']
 excerpt_image: https://www.saintlad.com/wp-content/uploads/2021/08/Cannot-Join-A-Party-Playstation-Network-1-1024x576.jpg
 image: https://www.saintlad.com/wp-content/uploads/2021/08/Cannot-Join-A-Party-Playstation-Network-1-1024x576.jpg
-categories: ['featured','PlayStation Network Account']
-
+tags: ['featured','PlayStation Network Account']
 ---
 
 ## Securing Your PlayStation Network Account
