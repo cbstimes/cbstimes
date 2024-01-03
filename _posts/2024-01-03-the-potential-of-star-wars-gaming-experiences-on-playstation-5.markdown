@@ -3,10 +3,10 @@ layout: post
 title: "The Potential of Star Wars Gaming Experiences on PlayStation 5"
 date:   2024-01-03 00:14:05 +0000
 categories: ['News','Gaming']
-excerpt_image: https://ps5home.com/wp-content/uploads/2018/01/Star-Wars-Game.jpg
-image: https://ps5home.com/wp-content/uploads/2018/01/Star-Wars-Game.jpg
+excerpt_image: https://m.media-amazon.com/images/I/61wC-yZd4bS._AC_UF1000,1000_QL80_.jpg
+image: https://m.media-amazon.com/images/I/61wC-yZd4bS._AC_UF1000,1000_QL80_.jpg
 tags: ['Featured','Game Streaming']
----
+---s
 
 ## Remote Game Streaming Shows Promise
 Remote game streaming allows playing titles away from the home console using another device and my own experience testing this showed the PlayStation 5 could revolutionize the way we experience Star Wars games. **I tested remote play functionality by streaming games from my gaming laptop both over a wired and wireless connection.** The wired connection had barely noticeable input lag but there was a slight increase when using WiFi. **However, the delay was minimal even on wireless, demonstrating the strong potential for remote streaming on PS5.**
@@ -15,7 +15,7 @@ For remote play to work, the home console needs to facilitate two-way communicat
 ### Bigger Star Wars Battles
 As an avid Star Wars fan, I'm hopeful the PS5 allows featuring even more popular characters beyond what we've seen in Battlefront 2. **Characters like Ahsoka Tano and Captain Rex from the Clone Wars series would thrill many fans if included in expanded rosters.** While EA continues producing the games, perhaps next-gen hardware could encourage more ambitious designs incorporating fan favorites across all eras.
 
-![](https://ps5home.com/wp-content/uploads/2018/01/Star-Wars-Game.jpg)
+![](https://m.media-amazon.com/images/I/61wC-yZd4bS._AC_UF1000,1000_QL80_.jpg)
 ### Visions of Iconic Locations
 With more powerful specs, developers may finally be able to recreate locations like Coruscant and Mandalore at their true scale. **Places like these planetary cities that played major roles in the franchise have endless possibilities for rich storytelling if brought to life in fully explorable open worlds.** Epic battles could unfold across skyscrapers on Coruscant or through the colorful capital of Mandalore.
 ### Deep Immersive Stories
