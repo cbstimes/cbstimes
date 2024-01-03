@@ -3,14 +3,14 @@ name: 'News Concept'
 description: 'News and Events'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-url: "https://newsconcept.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://cbstimes.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 # baseurl: '/'
 disqus: 'puppy101.org'
 email: 'puppy101.org@gmail.com'
 
 include: ["_pages"]
-#permalink: /:title/
-permalink: /:name/
+permalink: /:title/
+# permalink: /:name/
 # Plugins
 plugins:
     - jekyll-feed
@@ -22,7 +22,7 @@ plugins:
 authors:
     tony:
       name:           tony
-      site:           https://newsconcept.github.io/index.html
+      site:           https://cbstimes.github.io/index.html
       avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am Tony, the Blog Editor of \"News Concept\", the the site you're currently previewing. I hope you like it!"
       email:          puppy101.org@gmail.com
@@ -30,7 +30,7 @@ authors:
 
     hana:
       name:           Hanna
-      site:           https://newsconcept.github.io/index.html
+      site:           https://cbstimes.github.io/index.html
       avatar:         assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          citylodge.org@gmail.com
