@@ -5,7 +5,7 @@ date:   2023-12-24 19:40:27 +0000
 categories: ['News','Gaming']
 excerpt_image: https://media.techeblog.com/images/sony-playstation-5-console-official-digital-edition.jpg
 image: https://media.techeblog.com/images/sony-playstation-5-console-official-digital-edition.jpg
-tags: ['Featured','PlayStation 5 Console']
+tags: ['featured','PlayStation 5 Console']
 ---
 
 ### Assessing Sony's Latest Powerhouse
