@@ -1,5 +1,5 @@
 # Site
-name: 'News Concept'
+name: 'The CBS Times'
 description: 'News and Events'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -20,11 +20,11 @@ plugins:
     - jekyll-redirect-from
     - jekyll-gensocial
 authors:
-    tony:
-      name:           tony
+    sonny:
+      name:           sonny
       site:           https://cbstimes.github.io/index.html
       avatar:         assets/images/avatar1.jpg
-      bio:            "Hi, I am Tony, the Blog Editor of \"News Concept\", the the site you're currently previewing. I hope you like it!"
+      bio:            "Hi, I am sonny, the Blog Editor of \"News Concept\", the the site you're currently previewing. I hope you like it!"
       email:          puppy101.org@gmail.com
       twitter:        https://twitter.com/puppy101.org
 
@@ -44,7 +44,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: tony
+      author: sonny
       avatar: assets/images/avatar1.jpg
 
   # all pages
