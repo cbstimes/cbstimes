@@ -24,7 +24,7 @@ More basic USB controllers lack dedicated compatibility work and must often be t
 ## Advancing the Mobile Gaming Experience  
 As mobile becomes the primary platform for many Roblox players, optimizing the touchscreen experience grows in importance. While virtual controls have come a long way, replicating physical inputs remains a challenge.
 ### **Progress in Virtual Touch Controls** 
-Developers have iterated on virtual joystick and button designs to better mimic the precision afforded by physical controllers. Features like **Virtual Joystick Customization** now allow sizing and positioning buttons to individual preference. This customizable HUD layer helps translate the core gameplay originally built around physical inputs.
+Developers have iterated on virtual joystick and button designs to better mimic the precision afforded by physical controllers. Features like [Virtual Joystick Customization](https://cbstimes.github.io/a-comprehensive-review-of-the-playstation-vr-experience/) now allow sizing and positioning buttons to individual preference. This customizable HUD layer helps translate the core gameplay originally built around physical inputs.
 ### **Room for Further Innovation**  
 However, the touchscreen will never perfectly emulate the tactile feedback of buttons and analog sticks. **New Mobile Control Schemes** continue to be explored, like motion gestures or grip detection, but widespread adoption remains limited. Constant refinement is still needed to close the natural gaps in immersion and control between platforms for a consistent experience.
 ## Reaching the Next Generation of Players   
