@@ -8,7 +8,7 @@ image: https://img.onmanorama.com/content/dam/mm/en/travel/kerala/images/2021/7/
 ---
 
 ## Planning the Journey
-When planning a trip from Palakkad to Munnar, it is important to carefully consider the route and transportation options. The total distance is approximately 285 kilometers and will take around 4-5 hours depending on stops. [scenic route through southern Western Ghats mountains](https://thetopnews.github.io/troubleshooting-common-party-problems-when-streaming-games-on-pc/)
+When planning a trip from Palakkad to Munnar, it is important to carefully consider the route and transportation options. The total distance is approximately 285 kilometers and will take around 4-5 hours depending on stops. [ ](https://thetopnews.github.io/troubleshooting-common-party-problems-when-streaming-games-on-pc/)
 ### Do Your Research
 The first step is to gather information on the best routes. Based on the input provided, some top options include:
 - Palakkad → Pollachi → Udumalpet → Palappalayam → Munnar 
