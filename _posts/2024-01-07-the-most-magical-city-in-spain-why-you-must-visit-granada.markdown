@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Most Magical City in Spain: Why You Must Visit Granada"
-date: 2024-01-07 12:00:06 +0000
+date: 2024-09-07 12:00:06 +0000
 categories: "News"
 excerpt_image: https://i.pinimg.com/736x/76/af/34/76af3482cb28f67fa13a9ee7e905c21a.jpg
 image: https://i.pinimg.com/736x/76/af/34/76af3482cb28f67fa13a9ee7e905c21a.jpg
