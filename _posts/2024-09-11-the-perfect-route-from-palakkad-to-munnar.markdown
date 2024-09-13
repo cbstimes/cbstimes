@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Perfect Route from Palakkad to Munnar"
-date: 2023-12-11 15:04:35 +0000
+date: 2024-09-11 15:04:35 +0000
 categories: "News"
 excerpt_image: https://img.onmanorama.com/content/dam/mm/en/travel/kerala/images/2021/7/2/munnar.jpg
 image: https://img.onmanorama.com/content/dam/mm/en/travel/kerala/images/2021/7/2/munnar.jpg
